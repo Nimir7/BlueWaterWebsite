@@ -43,8 +43,8 @@ $(function () {
     //    }
     //});
 
-    $(document).on("pageload", function () {
-        alert("pageload event fired!");
-    });
+    //$(document).on("pageload", function () {
+    //    alert("pageload event fired!");
+    //});
 
 });
